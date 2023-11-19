@@ -7,4 +7,4 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 
 <hr>
 
-
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/jaiel666/jaiel666/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
