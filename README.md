@@ -8,4 +8,3 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 <hr>
 
 
-![image](https://github.com/jaiel666/jaiel666/assets/116556008/1fcbec4f-d4da-4448-94a5-123b07aa4cec)
