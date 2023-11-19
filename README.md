@@ -7,4 +7,5 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 
 <hr>
 
-<a href="https://www.linkedin.com/in/gustsmiezis/"><img align="left" src="https://raw.githubusercontent.com/jaiel666/jaiel666/main/images/linkedin.svg" alt="Gusts Miezis | LinkedIn" width="21px"/></a>
+(![image](https://github.com/jaiel666/jaiel666/assets/116556008/4e1e9661-4290-488e-b0e4-095a29db7fe4)
+
