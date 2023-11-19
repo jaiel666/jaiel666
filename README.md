@@ -7,4 +7,5 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 
 <hr>
 
-### Reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustsmiezis/)
+### Reach me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustsmiezis/)
