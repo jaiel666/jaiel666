@@ -6,7 +6,7 @@
 I'm a positive and hardworking software developer with skills in PHP, MySQL, Laravel, GIT, HTML, CSS, and more. Always excited to learn and pick up new skills. I love gaining fresh experiences and growing with every opportunity that comes my way.
 
 <hr>
-### Projects:
+** Projects: ** 
 
 Rick&Morty Project: </br>
 -Utilized Rick and Morty API for fetching data on seasons, episodes, and characters.</br>
