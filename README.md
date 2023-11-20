@@ -7,7 +7,7 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 
 <hr>
 
-## 🔭 I'm currently working on
+### Projects
 
 Rick&Morty Project: </br>
 -Utilized Rick and Morty API for fetching data on seasons, episodes, and characters.</br>
