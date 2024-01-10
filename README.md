@@ -11,6 +11,13 @@ I'm a positive and hardworking software developer with skills in PHP, MySQL, Lar
 
 ### Projects
 
+
+Mini Internet Bank: <br>
+-Developed a robust web application using PHP with the Laravel framework and MySQL.<br>
+-Employs jQuery for a dynamic and user-friendly interface in banking operations.<br>
+-Offers comprehensive features for account management, cryptocurrency activities, fund transactions, and detailed financial activity monitoring.<br>
+-Implements real-time cryptocurrency data, utilizing OOP principles and the MVC framework for code structure, modularity, and scalability.<br>
+-Prioritizes a positive user experience with easy navigation through various sections.<br>
 Rick&Morty Project: </br>
 -Utilized Rick and Morty API for fetching data on seasons, episodes, and characters.</br>
 -Implemented MVC framework for modular and organized code structures.</br>
